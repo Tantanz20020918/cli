@@ -38,6 +38,8 @@ tests/mail/reports/
 /notes/
 /minutes/
 internal/registry/meta_data.json
+# facts.json and other output emitted by `make quality-gate`
+/quality-gate/
 cmd/api/download.bin
 app.log
 /sidecar-server-demo
